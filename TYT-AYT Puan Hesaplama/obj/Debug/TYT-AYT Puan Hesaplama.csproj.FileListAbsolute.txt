@@ -1,0 +1,10 @@
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\bin\Debug\TYT-AYT Puan Hesaplama.exe.config
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\bin\Debug\TYT-AYT Puan Hesaplama.exe
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\bin\Debug\TYT-AYT Puan Hesaplama.pdb
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT-AYT Puan Hesaplama.csproj.AssemblyReference.cache
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT_AYT_Puan_Hesaplama.Form1.resources
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT_AYT_Puan_Hesaplama.Properties.Resources.resources
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT-AYT Puan Hesaplama.csproj.GenerateResource.cache
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT-AYT Puan Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT-AYT Puan Hesaplama.exe
+C:\Users\hsnyl\source\repos\TYT-AYT Puan Hesaplama\obj\Debug\TYT-AYT Puan Hesaplama.pdb
