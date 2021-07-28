@@ -1,0 +1,10 @@
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\bin\Debug\YemekSiparişiUygulaması.exe.config
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\bin\Debug\YemekSiparişiUygulaması.exe
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\bin\Debug\YemekSiparişiUygulaması.pdb
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.csproj.AssemblyReference.cache
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.Form1.resources
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.Properties.Resources.resources
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.csproj.GenerateResource.cache
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.exe
+C:\Users\hsnyl\source\repos\YemekSiparişiUygulaması\obj\Debug\YemekSiparişiUygulaması.pdb
