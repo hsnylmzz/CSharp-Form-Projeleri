@@ -1,0 +1,11 @@
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\bin\Debug\SatrançOyunu.exe.config
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\bin\Debug\SatrançOyunu.exe
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\bin\Debug\SatrançOyunu.pdb
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.csproj.AssemblyReference.cache
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.Form1.resources
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.Properties.Resources.resources
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.csproj.GenerateResource.cache
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.csproj.CoreCompileInputs.cache
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.exe
+C:\Users\hsnyl\OneDrive\Masaüstü\Asp.Net Projeleri\SatrançOyunu\SatrançOyunu\obj\Debug\SatrançOyunu.pdb
